@@ -1,4 +1,4 @@
-[Portfolio page.txt](https://github.com/MaryMghalu/Mary/files/9640782/Portfolio.page.txt)
+
 Portfolio Landing Page
 
 By Mary Mghalu
